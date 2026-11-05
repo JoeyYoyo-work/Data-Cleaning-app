@@ -1,0 +1,14 @@
+"Customer Name","Age","Join Date","Annual Salary","City","Satisfaction Score"
+" Alice Smith ",34,2023-01-15,"65000"," New York ",8
+"Jordan Lee",29,2022-07-04,"72000","Chicago",9
+"Priya Patel",41,2021-11-20,"$81,500","San Francisco",10
+"Marco Ruiz",thirty,2023-03-02,"58000","Austin",7
+"Sam Taylor",38,2020-05-19,,"Seattle",8
+"Alex Morgan",27,2024-01-08,"61000"," Boston ",9
+"Jamie Chen",32,2022-09-12,"67000","Denver",8
+" Dana Kim ",45,2019-06-30,"9000000","Miami",6
+"Riley Brooks",36,2021-02-14,"74500","Chicago",9
+"Jordan Lee",29,2022-07-04,"72000","Chicago",9
+"Casey Nguyen",,2023-08-21,"64000","Portland",7
+"Taylor Reed",31,not-a-date,"not available","Phoenix",8
+"","","","","",""
